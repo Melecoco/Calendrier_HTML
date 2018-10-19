@@ -14,3 +14,6 @@ Au final nous n'avons pas réussi à faire du responsive, et le burger menu.
 Merci de votre attention à l'égard de ce projet.
 
 Paul, Tania et Melec
+
+github Tania Asloum: https://github.com/TaniaAsloum
+github Paul Derue: https://github.com/Reavorr
